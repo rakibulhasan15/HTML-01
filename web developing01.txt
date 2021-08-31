@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+     <!--comment here
+      -->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" >       
+     <title> Web Head </title>
+      <link rel="stylesheet" href="style.css">
+      <script src="jquery.js"> </script>
+      
+  </head>
+  <body style="background: #dddddd">
+     <img src="web.jpg" alt="web logo" width="400" height=""> <br>
+     <a href="https://www.facebook.com/"> Facebook </a>
+      <p style="font-size:35px; color:blue;">Even though Israel is a small <br>
+        country it is always in the news.<br>
+        The news continues to report on Jews moving to Israel,</p><br> 
+        <hr>
+      <p>on the technology <b>invented</b> there, but also on conflict, wars and tensions with <u>surrounding</u> people. Why? A look at Israel’s history in the book of <i>Genesis</i> in the Bible LOG <sub>10</sub> X <sup>3</sup> reveals that <mark>4000 </mark>years ago a man, who is now very well known, went on a <strike>camping</strike> trip in that part of the <del>world.</del>  The Bible &nbsp; &nbsp; &nbsp; his story affects our &lt; body &gt;  future.</p>
+             <pre>        &copy; This ancient man is Abraham 
+                    We can take his story seriously because the 
+            places and cities he visited 
+                    are mentioned in other old writings</pre>
+    
+  </body>
+</html>
